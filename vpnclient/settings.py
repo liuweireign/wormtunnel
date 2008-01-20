@@ -7,6 +7,7 @@
 vpn客户端配置文件
 """
 
-VPN_SERVER_URL='http://localhost:3344/ethpkt'
+VPN_SERVER_URL_UPLOAD='http://localhost:3344/ethpkt/upload/'
+VPN_SERVER_URL_DOWNLOAD='http://localhost:3344/ethpkt/download/'
 ETHIF='eth1'
 PCAP_FILTER=''
